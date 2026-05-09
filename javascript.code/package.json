@@ -1,0 +1,13 @@
+{
+  "name": "javascript.code",
+  "version": "1.0.0",
+  "description": "CB",
+  "main": "CBindex.js",
+  "type": "module", 
+  "author": "amar_baath",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
